@@ -4,4 +4,5 @@
 2. Phần cài đặt cho DTW [DTW.ipynb](./DTW.ipynb) 
 3. Phần cài đặt cho HMM [HMM.ipynb](./HMM.ipynb) 
 ### Demo
-[Demo HMM](./HMM.mp4)
+[Demo DTW](https://youtu.be/BfcXN7NVGg8) <br/>
+[Demo HMM](https://youtu.be/tKhEp90bcP8)
